@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- 
+
  ![First to solve](https://user-images.githubusercontent.com/40190772/83947440-295e9500-a817-11ea-906c-9557727849aa.png)
 
   </a>
@@ -17,18 +17,30 @@
 </div>
 
 <p align="center"> 🏆 A competitive programming website to manage competitive programming activities with a virtual judge.
-    <br> 
+    <br>
 </p>
 
 ---
-### 🧐 About
---------------------------------
+
+### Content
+
+1. [About](#1)
+2. [Install](#2)
+3. [Built Using](#3)
+4. [ScreenShots](#4)
+5. [Contributors](#5)
+6. [Licence](#6)
+
+---
+
+### 🧐 About <div id="1"></div>
+
 **FirstToSolve** is a competitive programming website to manage competitive programming <br> regular activities, It is maintained by a group of competitive programmers from FECU to help competitive programmer to train for problems from different topic and compete with each other to get maximum benefit from the training.
 
 **We aren't a real judge**, actually we are a virtual judge not a real judge, we grab problems from other regular online judges like CodeForces, HackerRank, UVA, SPOJ .. etc and simulate submissions to other online judges and provide the user with the verdict besides adding more additional features like __Creating Contests, Groups, Teams and Organizations, Writing blogs and share it with CP community.__
 
+## 🏁 Install <a name = "Install"></a><div id='2'></div>
 
-## 🏁 Install <a name = "Install"></a>
 1. Install [Visual Studio](https://visualstudio.microsoft.com/) with .NET environment.
 2. Install [SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-2019).
 3. Execute ```Delivery Script``` on the ```SQL Server```.
@@ -37,15 +49,15 @@
 
 **Note:** Do not forget to change the ```DB_Connection_String``` in ```DBManager.cs```.
 
-## ⛏️ Built Using <a name = "tech"></a>
+## ⛏️ Built Using <a name = "tech"></a><div id='3'></div>
+
 - [C#](https://docs.microsoft.com/en-us/dotnet/csharp/) - Object-oriented language that enables developers to build .NET applications.
 - [ASP.NET MVC](https://dotnet.microsoft.com/apps/aspnet/mvc) - A design pattern for achieving a clean separation of concerns.
 - [SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-2019) - Relational database management system developed by Microsoft.
 - [Selenium](https://selenium.dev/) -  Portable framework for testing web applications.
 
+### 📷 ScreenShots <div id='4'></div>
 
-
-### 📷 ScreenShots 
 -------------------
 
 <div align="center">
@@ -61,7 +73,8 @@
 
 </div>
 
-### ✨ Contributors
+### ✨ Contributors<div id='5'></div>
+
 <table>
   <tr>
     <td align="center"><a href="https://github.com/AbdallahHemdan"><img src="https://avatars1.githubusercontent.com/u/40190772?s=460&v=4" width="150px;" alt=""/><br /><sub><b>Abdallah Hemdan</b></sub></a><br /></td>
@@ -71,7 +84,6 @@
   </tr>
  </table>
 
-### ⚖ Licence&nbsp; &nbsp; &nbsp;
+### ⚖ Licence&nbsp; &nbsp; &nbsp;<div id='6'></div>
+
 [MIT Licence](https://github.com/AbdallahHemdan/A4A/blob/master/LICENSE)
-
-
